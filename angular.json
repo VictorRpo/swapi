@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "swapi"
+    }
+  },
+  "defaultProject": "swapi",
+  "cli": {
+    "analytics": "d28eb620-09d2-4a22-b1e9-8701426fd64a"
+  }
 }
